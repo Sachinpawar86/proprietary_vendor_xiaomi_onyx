@@ -3389,6 +3389,7 @@ PRODUCT_PACKAGES += \
     lib-imsvt \
     lib-imsvtextutils \
     lib-imsvtutils \
+    libbeluga \
     libdiag_system \
     libimscamera_jni \
     libimsmedia_jni \
