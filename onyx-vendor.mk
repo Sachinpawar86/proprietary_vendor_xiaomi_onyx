@@ -3401,6 +3401,7 @@ PRODUCT_PACKAGES += \
     libqcc_file_agent_sys \
     libqccfileservice \
     libqesdk_ndk_platform.qti \
+    libskewknob_system \
     libwfdavenhancements \
     libwfdclient \
     libwfdcommonutils \
